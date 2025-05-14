@@ -1,0 +1,49 @@
+# Environnements virtuels
+venv/
+.env/
+.venv/
+
+# Fichiers de cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Fichiers de log
+*.log
+
+# Fichiers de configuration d’éditeur
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Dépendances
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Fichiers de test
+.coverage
+.tox/
+htmlcov/
+.cache/
+
+# Fichiers temporaires
+*.tmp
+*.swp
+*.bak
+
+# Fichiers de sortie
+*.out
+
+# Fichiers de documentation générés
+docs/_build/
+
+# Fichiers secrets
+*.env
+.env.*
