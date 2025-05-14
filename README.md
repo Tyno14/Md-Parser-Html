@@ -56,4 +56,4 @@ mdparsertp fichier.md --output mon_site --title "Titre Perso" --theme green --da
 
 ## 🧑‍💻 Auteur
 
-Anthony Mittica 2025
+Anthony 2025
