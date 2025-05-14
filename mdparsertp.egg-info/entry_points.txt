@@ -1,0 +1,2 @@
+[console_scripts]
+mdparsertp = mdparsertp.cli:main

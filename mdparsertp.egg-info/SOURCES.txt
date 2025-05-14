@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+mdparsertp/__init__.py
+mdparsertp/cli.py
+mdparsertp.egg-info/PKG-INFO
+mdparsertp.egg-info/SOURCES.txt
+mdparsertp.egg-info/dependency_links.txt
+mdparsertp.egg-info/entry_points.txt
+mdparsertp.egg-info/top_level.txt
