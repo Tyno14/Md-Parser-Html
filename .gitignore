@@ -40,6 +40,7 @@ htmlcov/
 
 # Fichiers de sortie
 *.out
+site/
 
 # Fichiers de documentation générés
 docs/_build/
