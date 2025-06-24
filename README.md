@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.6%2B-blue.svg)](https://www.python.org/)
 [![Licence MIT](https://img.shields.io/badge/Licence-MIT-green.svg)](LICENSE)
-![Statut](https://img.shields.io/badge/statut-Inactif-brightgreen.svg)
+![Statut](https://img.shields.io/badge/statut-Inactif-brightred.svg)
 ![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)
 
 ## 🔐 Projet privé temporaire
