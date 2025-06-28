@@ -5,10 +5,7 @@
 ![Statut](https://img.shields.io/badge/statut-Inactif-red.svg)
 ![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)
 
-## 🔐 Projet privé temporaire
-
 > Projet réalisé dans le cadre du TP Markdown → HTML à l'ESGI  
-> Dépôt privé temporairement pour éviter tout plagiat avant rendu
 
 ---
 
@@ -56,4 +53,4 @@ mdparsertp fichier.md --output mon_site --title "Titre Perso" --theme green --da
 
 ## 🧑‍💻 Auteur
 
-Anthony 2025
+Tyno14 2025
